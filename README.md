@@ -2,6 +2,6 @@
 
 hola, este es el curso de selenium
 
-estamos trabajando con git
+estamos trabajando con git y sourcetree
 
 saludos
